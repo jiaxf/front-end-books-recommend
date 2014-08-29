@@ -15,7 +15,7 @@ front-end-books-recommend
 
 5.[Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 
-6. [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+6.[JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 7.[Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html)
 
