@@ -3,7 +3,7 @@ front-end-books-recommend
 
 收集整理的前端开发书籍、文档等相关资料
 
-如果你有更好的相关资料推荐的，也可以联系我的微博（[weibo.com/hwax1993](weibo.com/hwax1993)）。
+如果你有更好的相关资料推荐的，也可以联系我的微博（[weibo.com/hwax1993](http://weibo.com/hwax1993）。
 
 1.[正则表达式知识点整理](http://www.w3cfuns.com/blog-5434413-5400017.html)
 
