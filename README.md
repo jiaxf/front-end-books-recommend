@@ -1,7 +1,7 @@
 front-end-books-recommend
 =========================
 
-收集整理的前端开发书籍、文档等相关资料
+收集整理的前端开发书籍、文档等相关资料(many books or documents for front-end developer)
 
 如果你有更好的相关资料推荐的，也可以联系我的微博[weibo.com/hwax1993](http://weibo.com/hwax1993)
 
