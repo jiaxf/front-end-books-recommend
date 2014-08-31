@@ -5,6 +5,8 @@ front-end-books-recommend
 
 如果你有更好的相关资料推荐的，也可以联系我的微博[weibo.com/hwax1993](http://weibo.com/hwax1993)
 
+0.[各种语言的API详解](http://overapi.com/)英文原版哦
+
 1.[正则表达式知识点整理](http://www.w3cfuns.com/blog-5434413-5400017.html)
 
 2.[学习CSS布局](http://zh.learnlayout.com/)
