@@ -40,3 +40,5 @@ front-end-books-recommend
 17.[HTML5中文手册](http://www.html5china.com/manual/css3/)
 
 18.[Bootstrap中文文档](http://www.bootcss.com/)
+
+19.[超全css解决方案](http://www.w3cplus.com/solution/index/index.html)
