@@ -46,3 +46,9 @@ front-end-books-recommend
 19.[超全css解决方案](http://www.w3cplus.com/solution/index/index.html)
 
 20.[MDN web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web/Tutorials)灰常实用哦
+
+21.[w3cschool-html5](http://www.w3cplus.com/sites/default/files/source/API/w3school-html5.chm)
+
+22.[w3cschool-js](http://www.w3cplus.com/sites/default/files/source/API/w3school-JS.chm)
+
+23.[w3cschool-php](http://www.w3cplus.com/sites/default/files/source/API/w3school-PHP.chm)
