@@ -52,3 +52,5 @@ front-end-books-recommend
 22.[w3cschool-js](http://www.w3cplus.com/sites/default/files/source/API/w3school-JS.chm)
 
 23.[w3cschool-php](http://www.w3cplus.com/sites/default/files/source/API/w3school-PHP.chm)
+
+24.[前端知识体系](http://ecomfe.duapp.com/tag/php)
