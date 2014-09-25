@@ -54,3 +54,5 @@ front-end-books-recommend
 23.[w3cschool-php](http://www.w3cplus.com/sites/default/files/source/API/w3school-PHP.chm)
 
 24.[前端知识体系](http://ecomfe.duapp.com/tag/php)
+
+25.[常用API文档大全](http://tool.oschina.net/apidocs)
